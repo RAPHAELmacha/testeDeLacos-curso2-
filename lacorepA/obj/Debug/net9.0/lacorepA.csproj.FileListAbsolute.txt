@@ -1,0 +1,14 @@
+D:\Csharp\LaçosDeRepeticao\lacorepA\bin\Debug\net9.0\lacorepA.exe
+D:\Csharp\LaçosDeRepeticao\lacorepA\bin\Debug\net9.0\lacorepA.deps.json
+D:\Csharp\LaçosDeRepeticao\lacorepA\bin\Debug\net9.0\lacorepA.runtimeconfig.json
+D:\Csharp\LaçosDeRepeticao\lacorepA\bin\Debug\net9.0\lacorepA.dll
+D:\Csharp\LaçosDeRepeticao\lacorepA\bin\Debug\net9.0\lacorepA.pdb
+D:\Csharp\LaçosDeRepeticao\lacorepA\obj\Debug\net9.0\lacorepA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\LaçosDeRepeticao\lacorepA\obj\Debug\net9.0\lacorepA.AssemblyInfoInputs.cache
+D:\Csharp\LaçosDeRepeticao\lacorepA\obj\Debug\net9.0\lacorepA.AssemblyInfo.cs
+D:\Csharp\LaçosDeRepeticao\lacorepA\obj\Debug\net9.0\lacorepA.csproj.CoreCompileInputs.cache
+D:\Csharp\LaçosDeRepeticao\lacorepA\obj\Debug\net9.0\lacorepA.dll
+D:\Csharp\LaçosDeRepeticao\lacorepA\obj\Debug\net9.0\refint\lacorepA.dll
+D:\Csharp\LaçosDeRepeticao\lacorepA\obj\Debug\net9.0\lacorepA.pdb
+D:\Csharp\LaçosDeRepeticao\lacorepA\obj\Debug\net9.0\lacorepA.genruntimeconfig.cache
+D:\Csharp\LaçosDeRepeticao\lacorepA\obj\Debug\net9.0\ref\lacorepA.dll
