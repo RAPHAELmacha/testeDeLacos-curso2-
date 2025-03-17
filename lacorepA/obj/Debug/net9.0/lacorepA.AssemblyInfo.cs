@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lacorepA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4296d01fbfa674464366c2c1c85e26315bf642c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("lacorepA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lacorepA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
